@@ -32,15 +32,15 @@ The system performs automatic speech recognition (ASR) locally without relying o
 - Librosa
 
 ## INSTALLATION
-git clone \n
-cd speech-recognition-system /n
-python -m venv venv
-venv\Scripts\activate
-pip install -r requirements.txt
+git clone <br>
+cd speech-recognition-system <br>
+python -m venv venv <br>
+venv\Scripts\activate <br>
+pip install -r requirements.txt 
 
 ## USAGE
 python main.py
 
 ## OUTPUT
 
-<img width="1919" height="1143" alt="Image" src="https://github.com/user-attachments/assets/1a604b2a-7d1d-4671-9bfb-20900986a310" />
+<img width="1919" height="1115" alt="Image" src="https://github.com/user-attachments/assets/0539d8d4-5280-4dd5-ba68-a12df3c0bd4c" />
